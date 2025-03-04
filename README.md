@@ -10,8 +10,8 @@ Problem Statement: Write a Java program to calculate the area of a rectangle giv
 
 📌Day 2: Calculate sum of two numbers
 
-Problem Statement: Calculate the sum of two integers, 'a' and 'b', separated by a space.
+Problem Statement: Write a program to Calculate the sum of two integers, 'a' and 'b', separated by a space.
 
-📌Day 2: 
+📌Day 2: Calculate product of two numbers
 
-
+Problem Statement: Write a Java program to calculate the product of two numbers, a and b.
