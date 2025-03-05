@@ -15,3 +15,12 @@ Problem Statement: Write a program to Calculate the sum of two integers, 'a' and
 📌Day 2: Calculate product of two numbers
 
 Problem Statement: Write a Java program to calculate the product of two numbers, a and b.
+
+📌Day 3: User Input and Printing 
+
+Problem Statement: Write a Java program that takes user input for a number and prints it.
+
+📌Day 3: User Input, Sum, and Product
+
+Problem Statement: Write a Java program that takes user input for two numbers and prints their sum and product.
+
