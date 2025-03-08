@@ -40,3 +40,13 @@ Problem Statement: Write a Java program to convert a given float number to an in
 
 Problem Statement: Write a Java program to calculate the area of a circle given its radius as input. Ensure that the result is of type double. Your task is to take the 
 radius as input and display the calculated area of the circle.(use pi=3.14)
+
+📌Day 6: Check if a Number is Positive or Negative
+
+Problem Statement: Write a Java program to check if a given number is positive or negative
+
+📌Day 6: Check if a Year is a Leap Year
+
+Problem Statement: Write a Java program to check if a given year is a leap year or not, considering leap year rules. A year is a leap year if it is divisible by 4. However, 
+if a year is divisible by 100, it is not a leap year unless it is also divisible by 400.
+
