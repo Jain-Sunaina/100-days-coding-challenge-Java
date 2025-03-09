@@ -50,3 +50,12 @@ Problem Statement: Write a Java program to check if a given number is positive o
 Problem Statement: Write a Java program to check if a given year is a leap year or not, considering leap year rules. A year is a leap year if it is divisible by 4. However, 
 if a year is divisible by 100, it is not a leap year unless it is also divisible by 400.
 
+📌Day 7: Check if a Number is Even or Odd using Logical Operators.
+
+Problem Statement: Write a Java program to check if a given number is even or odd using logical operators.
+
+📌Day 7: Calculate Compound Interest
+
+Problem Statement: Write a Java program to calculate compound interest given principal, rate, and time.
+Compound Interest Formula: A = P(1 + R/100)^T Where 'A' is the total amount, 'P' is the principal amount, 'R' is the rate of interest, and 'T' is the time in years.
+
