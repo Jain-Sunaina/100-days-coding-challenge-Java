@@ -59,3 +59,11 @@ Problem Statement: Write a Java program to check if a given number is even or od
 Problem Statement: Write a Java program to calculate compound interest given principal, rate, and time.
 Compound Interest Formula: A = P(1 + R/100)^T Where 'A' is the total amount, 'P' is the principal amount, 'R' is the rate of interest, and 'T' is the time in years.
 
+📌Day 8: Find the Largest of Two Numbers
+
+Problem Statement: Write a Java program to find the largest of two numbers.
+
+📌Day 8: Find the Largest of Three Numbers using If-Else Statements
+
+Problem Statement: Write a Java program to find the largest of three numbers using if-else statements.
+
