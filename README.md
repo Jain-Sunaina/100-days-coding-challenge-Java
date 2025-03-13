@@ -82,3 +82,12 @@ Problem Statement: Write a Java program to find the maximum of two numbers using
 📌Day 10: Implement a Simple Calculator Using a Switch Statement
 
 Problem Statement: Write a Java program to implement a simple calculator using a switch statement.
+
+📌Day 11: Print Numbers from 1 to 10 Using a While Loop
+
+Problem Statement: Write a Java program to print numbers from 1 to 10 using a while loop.
+
+📌Day 11: Find the Sum of the First N Natural Numbers Using a While Loop
+
+Problem Statement: Write a Java program to find the sum of the first N natural numbers using a while loop.
+
