@@ -95,6 +95,7 @@ Problem Statement: Write a Java program to find the sum of the first N natural n
 
 Problem Statement: Write a Java program to print a square pattern of asterisks.
 
-📌Day 12: 
+📌Day 12: Reverse a Given Number Using a For Loop 
 
-Problem Statement: 
+Problem Statement: Write a Java program to reverse a given number using a for loop.
+
