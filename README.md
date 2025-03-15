@@ -99,3 +99,10 @@ Problem Statement: Write a Java program to print a square pattern of asterisks.
 
 Problem Statement: Write a Java program to reverse a given number using a for loop.
 
+📌Day 13: Reverse a Given String
+
+Problem Statement: Write a Java program to reverse a given string.
+
+📌Day 13: 
+
+Problem Statement: 
