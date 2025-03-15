@@ -103,6 +103,8 @@ Problem Statement: Write a Java program to reverse a given number using a for lo
 
 Problem Statement: Write a Java program to reverse a given string.
 
-📌Day 13: 
+📌Day 13: Check If a Number Is Prime Using a For Loop
 
-Problem Statement: 
+Problem Statement: Write a Java program to check if a number is prime or not using a for loop.
+
+
