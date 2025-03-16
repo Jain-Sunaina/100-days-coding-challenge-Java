@@ -111,6 +111,8 @@ Problem Statement: Write a Java program to check if a number is prime or not usi
 
 Problem Statement: Write a Java program to calculate the factorial of a number using a do-while loop.
 
-📌Day 14:
+📌Day 14: Find the Sum of Prime Numbers in a Given Range Using a do-while Loop
 
-Problem Statement: 
+Problem Statement: Write a Java program to find the sum of prime numbers in a given range using a do-while loop.
+
+
