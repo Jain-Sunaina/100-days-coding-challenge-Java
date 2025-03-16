@@ -107,4 +107,10 @@ Problem Statement: Write a Java program to reverse a given string.
 
 Problem Statement: Write a Java program to check if a number is prime or not using a for loop.
 
+📌Day 14: Calculate the Factorial of a Number Using a do-while Loop
 
+Problem Statement: Write a Java program to calculate the factorial of a number using a do-while loop.
+
+📌Day 14:
+
+Problem Statement: 
