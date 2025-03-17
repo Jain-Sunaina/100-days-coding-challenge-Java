@@ -115,4 +115,11 @@ Problem Statement: Write a Java program to calculate the factorial of a number u
 
 Problem Statement: Write a Java program to find the sum of prime numbers in a given range using a do-while loop.
 
+📌Day 15: Print the Fibonacci Series Up to a Given Number Using a for Loop
+
+Problem Statement: Write a Java program to print the Fibonacci series up to a given number using a for loop.
+
+📌Day 15: Find All Prime Numbers in a Given Range Using a for Loop
+
+Problem Statement: Write a Java program to find all prime numbers in a given range using a for loop.
 
