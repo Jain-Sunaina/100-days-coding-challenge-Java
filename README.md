@@ -123,3 +123,11 @@ Problem Statement: Write a Java program to print the Fibonacci series up to a gi
 
 Problem Statement: Write a Java program to find all prime numbers in a given range using a for loop.
 
+📌Day 16: Find the Sum of an Array of Integers
+
+Problem Statement: Write a Java program to find the sum of an array of integers.
+
+📌Day 16: Find the Maximum Element in an Array
+
+Problem Statement: Write a Java program to find the maximum element in an array.
+
