@@ -135,6 +135,7 @@ Problem Statement: Write a Java program to find the maximum element in an array.
 
 Problem Statement: Write a Java program to print a simple right-angled triangle pattern of asterisks
 
-📌Day 17:
+📌Day 17: Print a Hollow Square Pattern of Asterisks
 
-Problem Statement: 
+Problem Statement: Write a Java program to print a hollow square pattern of asterisks.
+
