@@ -139,3 +139,10 @@ Problem Statement: Write a Java program to print a simple right-angled triangle 
 
 Problem Statement: Write a Java program to print a hollow square pattern of asterisks.
 
+📌Day 18: Print an Inverted Right-Angled Triangle Pattern of Asterisks
+
+Problem Statement: Write a Java program to print an inverted right-angled triangle pattern of asterisks.
+
+📌Day 18: 
+
+Problem Statement: 
