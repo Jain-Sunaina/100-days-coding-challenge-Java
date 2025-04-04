@@ -147,3 +147,11 @@ Problem Statement: Write a Java program to print an inverted right-angled triang
 
 Problem Statement: Write a Java program to print a butterfly pattern of asterisks.
 
+📌Day 19: Write a Java program to print a half pyramid pattern of numbers.
+
+Problem Statement: Write a Java program that prints a half pyramid pattern of numbers. The pattern should have 'n' rows, where 'n' is an integer input.
+
+📌Day 19: Write a Java program to print a character pattern
+
+Problem Statement: Write a Java program that prints a character pattern based on the number of rows 'n' (where 'n' is an integer input). The pattern should consist of
+uppercase English leters starting from 'A' and incrementing with each row.
