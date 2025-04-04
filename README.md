@@ -143,6 +143,7 @@ Problem Statement: Write a Java program to print a hollow square pattern of aste
 
 Problem Statement: Write a Java program to print an inverted right-angled triangle pattern of asterisks.
 
-📌Day 18: 
+📌Day 18: Print a Butterfly Pattern of Asterisks
 
-Problem Statement: 
+Problem Statement: Write a Java program to print a butterfly pattern of asterisks.
+
