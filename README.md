@@ -155,3 +155,14 @@ Problem Statement: Write a Java program that prints a half pyramid pattern of nu
 
 Problem Statement: Write a Java program that prints a character pattern based on the number of rows 'n' (where 'n' is an integer input). The pattern should consist of
 uppercase English leters starting from 'A' and incrementing with each row.
+
+📌Day 20: Solid Rhombus pattern of asterisks
+
+Problem Statement: Write a Java program to print a solid rhombus pattern of asterisks based on the number of rows 'n' (where 'n' is an integer input). The pattern should
+form a rhombus with asterisks.
+
+📌Day 20: Hollow Rhombus pattern of asterisks
+
+Problem Statement: Write a Java program to print a hollow rhombus pattern of asterisks based on the number of rows 'n' (where 'n' is an integer input). The pattern should
+form a rhombus with asterisks, and the inner part of the rhombus should be empty.
+
