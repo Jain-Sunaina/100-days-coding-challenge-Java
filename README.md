@@ -166,3 +166,12 @@ form a rhombus with asterisks.
 Problem Statement: Write a Java program to print a hollow rhombus pattern of asterisks based on the number of rows 'n' (where 'n' is an integer input). The pattern should
 form a rhombus with asterisks, and the inner part of the rhombus should be empty.
 
+📌Day 21: Java function to find the factorial of a number 
+
+Problem Statement: Write a Java function named calculateFactorial that calculates and returns the factorial of a given integer 'n'. The function should take an integer 'n'
+as input and return an integer representing the factorial of 'n'.
+
+📌Day 21: Java function to calculate the nth term of the Fibonacci sequence
+
+Problem Statement: Write a Java function named calculateFibonacci that calculates and returns the nth term of the Fibonacci sequence. The function should take an integer
+'n' as input and return an integer representing the nth term of the Fibonacci sequence. 
