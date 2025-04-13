@@ -185,3 +185,15 @@ Problem Statement: Write a Java function named calculateSum that calculates and 
 
 Problem Statement: Write a Java function named calculateBinomialCoefficient that calculates and returns the binomial coefficient C(n, k). The function should take two 
 integers 'n' and 'k' as input and return an integer representing the binomial coefficient C(n, k). Function Description: int calculateBinomialCoefficient(int n, int k)
+
+📌Day 23: Write a Java function to check if a given number is a palindrome
+
+Problem Statement: Write a Java function named isPalindrome that checks if a given integer 'num' is a palindrome or not. A palindrome is a number that remains the same when
+its digits are reversed. The function should take an integer 'num' as input and return a boolean value (true if 'num' is a palindrome, false otherwise). Function
+Description: boolean isPalindrome(int num)
+
+📌Day 23: Write a Java program to find all prime numbers in a given range using a userdefined function
+
+Problem Statement: Write a Java program that finds and prints all prime numbers within a given range [start, end]. The program should use a user-defined function named 
+isPrime to check if a number is prime or not. The function should take an integer 'num' as input and return a boolean value (true if 'num' is prime, false otherwise). 
+Function Description: boolean isPrime(int num)
