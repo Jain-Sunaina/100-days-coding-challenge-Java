@@ -197,3 +197,16 @@ Description: boolean isPalindrome(int num)
 Problem Statement: Write a Java program that finds and prints all prime numbers within a given range [start, end]. The program should use a user-defined function named 
 isPrime to check if a number is prime or not. The function should take an integer 'num' as input and return a boolean value (true if 'num' is prime, false otherwise). 
 Function Description: boolean isPrime(int num)
+
+📌Day 24: Write a Java program to convert a binary number to decimal using a user-defined function
+
+Problem Statement: Write a Java program that converts a binary number represented as a string to its decimal equivalent. The program should use a user-defined function 
+named binaryToDecimal to perform the conversion. The function should take a binary string as input and return its decimal equivalent as an integer. int 
+binaryToDecimal(String binary)
+
+📌Day 24: Write a Java program to convert a decimal number to binary using a user-defined function
+
+Problem Statement: Write a Java program that converts a decimal number (positive integer) to its binary representation as a string. The program should use a user-defined 
+function named decimalToBinary to perform the conversion. The function should take a decimal integer as input and return its binary representation as a string. Function
+Description: String decimalToBinary(int decimal)
+
