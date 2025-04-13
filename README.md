@@ -175,3 +175,13 @@ as input and return an integer representing the factorial of 'n'.
 
 Problem Statement: Write a Java function named calculateFibonacci that calculates and returns the nth term of the Fibonacci sequence. The function should take an integer
 'n' as input and return an integer representing the nth term of the Fibonacci sequence. 
+
+📌Day 22: Java function to find the sum of two integers
+
+Problem Statement: Write a Java function named calculateSum that calculates and returns the sum of two integers 'a' and 'b'. The function should take two integers 'a' and
+'b' as input and return an integer representing their sum. Function Description: int calculateSum(int a, int b)
+
+📌Day 22: Java function to calculate the binomial coefficient (n choose k)
+
+Problem Statement: Write a Java function named calculateBinomialCoefficient that calculates and returns the binomial coefficient C(n, k). The function should take two 
+integers 'n' and 'k' as input and return an integer representing the binomial coefficient C(n, k). Function Description: int calculateBinomialCoefficient(int n, int k)
