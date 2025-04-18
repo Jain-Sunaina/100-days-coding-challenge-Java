@@ -219,3 +219,16 @@ task. The function should take the array as input and return the maximum element
 
 Problem Statement: Write a Java program that calculates the greatest common divisor (GCD) of two positive integers. The program should use a user-defined function named 
 calculateGCD to perform this task. The function should take two integer inputs and return their GCD. Function Description: int calculateGCD(int num1, int num2).
+
+📌Day 26: Write a Java program to calculate the area of a rectangle and a circle using function overloading.
+
+Problem Statement: Write a Java program that calculates the area of a rectangle and a circle using function overloading. You should create two separate functions: one for
+calculating the area of a rectangle and another for calculating the area of a circle. Both functions should be named calculateArea but should accept different sets of 
+parameters. Function Description for Rectangle: double calculateArea(double length, double width) Function Description for Circle: double calculateArea(double radius)
+
+📌Day 26:Write a Java program to calculate the volume of a cube and a sphere using function overloading.
+
+Problem Statement: Write a Java program that calculates the volume of a cube and a sphere using function overloading. You should create two separate functions: one for
+calculating the volume of a cube and another for calculating the volume of a sphere. Both functions should be named calculateVolume but should accept different sets of 
+parameters. Function Description for Cube: double calculateVolume(double sideLength) Function Description for Sphere: double calculateVolume(double radius, String shapeType)
+
