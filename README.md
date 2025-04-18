@@ -226,9 +226,19 @@ Problem Statement: Write a Java program that calculates the area of a rectangle 
 calculating the area of a rectangle and another for calculating the area of a circle. Both functions should be named calculateArea but should accept different sets of 
 parameters. Function Description for Rectangle: double calculateArea(double length, double width) Function Description for Circle: double calculateArea(double radius)
 
-📌Day 26:Write a Java program to calculate the volume of a cube and a sphere using function overloading.
+📌Day 26: Write a Java program to calculate the volume of a cube and a sphere using function overloading.
 
 Problem Statement: Write a Java program that calculates the volume of a cube and a sphere using function overloading. You should create two separate functions: one for
 calculating the volume of a cube and another for calculating the volume of a sphere. Both functions should be named calculateVolume but should accept different sets of 
 parameters. Function Description for Cube: double calculateVolume(double sideLength) Function Description for Sphere: double calculateVolume(double radius, String shapeType)
+
+📌Day 27: Java program to find the sum of elements in an array
+
+Problem Statement: Write a Java program that calculates the sum of elements in an array. You will be given an array of integers, and your task is to find and return the sum 
+of all the elements in the array. Function Description: int findSum(int[] arr)
+
+📌Day 27: Java program to find the second largest element in an array 
+
+Problem Statement: Write a Java program that finds and returns the second largest element in an array of integers. You will be given an array, and your task is to find the
+second largest element in that array. Function Description: int findSecondLargest(int[] arr)
 
