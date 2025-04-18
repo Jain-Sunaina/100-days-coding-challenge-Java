@@ -210,3 +210,12 @@ Problem Statement: Write a Java program that converts a decimal number (positive
 function named decimalToBinary to perform the conversion. The function should take a decimal integer as input and return its binary representation as a string. Function
 Description: String decimalToBinary(int decimal)
 
+📌Day 25: Java program to find the maximum element in an array using a user-defined function
+
+Problem Statement: Write a Java program that finds the maximum element in an array of integers. The program should use a user-defined function named findMax to perform this
+task. The function should take the array as input and return the maximum element. Function Description: int findMax(int[] arr).
+
+📌Day 25: Java program to calculate the greatest common divisor (GCD) of two numbers using a user-defined function
+
+Problem Statement: Write a Java program that calculates the greatest common divisor (GCD) of two positive integers. The program should use a user-defined function named 
+calculateGCD to perform this task. The function should take two integer inputs and return their GCD. Function Description: int calculateGCD(int num1, int num2).
