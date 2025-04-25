@@ -242,3 +242,12 @@ of all the elements in the array. Function Description: int findSum(int[] arr)
 Problem Statement: Write a Java program that finds and returns the second largest element in an array of integers. You will be given an array, and your task is to find the
 second largest element in that array. Function Description: int findSecondLargest(int[] arr)
 
+📌Day 28: Java program to perform a linear search for a given element in an array.
+
+Problem Statement: Write a Java program that performs a linear search for a given element in an array of integers. You will be given an array and a target element, and your
+task is to find and return the index of the target element in the array. Function Description: int linearSearch(int[] arr, int target).
+
+📌Day 28: Java program to perform binary search on a sorted array
+
+Problem Statement: Write a Java program that performs a binary search for a given element in a sorted array of integers. You will be given a sorted array and a target 
+element, and your task is to find and return the index of the target element in the array using binary search. Function Description: int binarySearch(int[] arr, int target).
