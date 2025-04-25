@@ -251,3 +251,13 @@ task is to find and return the index of the target element in the array. Functio
 
 Problem Statement: Write a Java program that performs a binary search for a given element in a sorted array of integers. You will be given a sorted array and a target 
 element, and your task is to find and return the index of the target element in the array using binary search. Function Description: int binarySearch(int[] arr, int target).
+
+📌Day 29: Java program to reverse an array
+
+Problem Statement: Write a Java program that reverses an array of integers. You will be given an array, and your task is to reverse the elements of the array in place. 
+Function Description: void reverseArray(int[] arr)
+
+📌Day 29: Java program to find the largest subarray sum in an array
+
+Problem Statement: Write a Java program that finds the largest sum of any subarray within an array of integers. You will be given an array, and your task is to find the 
+maximum sum of a subarray.
