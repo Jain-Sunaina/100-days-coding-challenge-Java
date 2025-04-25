@@ -232,12 +232,12 @@ Problem Statement: Write a Java program that calculates the volume of a cube and
 calculating the volume of a cube and another for calculating the volume of a sphere. Both functions should be named calculateVolume but should accept different sets of 
 parameters. Function Description for Cube: double calculateVolume(double sideLength) Function Description for Sphere: double calculateVolume(double radius, String shapeType)
 
-📌Day 27: Java program to find the sum of elements in an array
+📌Day 27: Java program to find the sum of elements in an array.
 
 Problem Statement: Write a Java program that calculates the sum of elements in an array. You will be given an array of integers, and your task is to find and return the sum 
 of all the elements in the array. Function Description: int findSum(int[] arr)
 
-📌Day 27: Java program to find the second largest element in an array 
+📌Day 27: Java program to find the second largest element in an array. 
 
 Problem Statement: Write a Java program that finds and returns the second largest element in an array of integers. You will be given an array, and your task is to find the
 second largest element in that array. Function Description: int findSecondLargest(int[] arr)
@@ -247,17 +247,27 @@ second largest element in that array. Function Description: int findSecondLarges
 Problem Statement: Write a Java program that performs a linear search for a given element in an array of integers. You will be given an array and a target element, and your
 task is to find and return the index of the target element in the array. Function Description: int linearSearch(int[] arr, int target).
 
-📌Day 28: Java program to perform binary search on a sorted array
+📌Day 28: Java program to perform binary search on a sorted array.
 
 Problem Statement: Write a Java program that performs a binary search for a given element in a sorted array of integers. You will be given a sorted array and a target 
 element, and your task is to find and return the index of the target element in the array using binary search. Function Description: int binarySearch(int[] arr, int target).
 
-📌Day 29: Java program to reverse an array
+📌Day 29: Java program to reverse an array.
 
 Problem Statement: Write a Java program that reverses an array of integers. You will be given an array, and your task is to reverse the elements of the array in place. 
 Function Description: void reverseArray(int[] arr)
 
-📌Day 29: Java program to find the largest subarray sum in an array
+📌Day 29: Java program to find the largest subarray sum in an array.
 
 Problem Statement: Write a Java program that finds the largest sum of any subarray within an array of integers. You will be given an array, and your task is to find the 
 maximum sum of a subarray.
+
+📌Day 30: Find all pairs of elements in an array that sum to a given target.
+
+Problem Statement: Write a Java program that finds and prints all pairs of elements in an array that sum to a given target value. You will be given an array and a target 
+sum, and your task is to find all pairs of elements whose sum equals the target value. 
+
+📌Day 30: Maximum subarray sum in an array using Kadane's algorithm.
+
+Problem Statement: Write a Java program that finds the maximum sum of any subarray within an array of integers using Kadane's algorithm. You will be given an array, and 
+your task is to find the maximum sum of a subarray.
